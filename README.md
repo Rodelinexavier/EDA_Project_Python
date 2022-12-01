@@ -3,7 +3,7 @@
 Speed Dating Project
 
 Dans ce projet, nous allons explorer les facteurs qui influencent les participants au speed dating dans le choix de rencontrer leurs partenaires une seconde fois. L’objectif est de ce projet est de :
--Produire une analyse exploratoire en utilisant la librairie Pandas. Cette démarche nous permettra de nous familiariser avec notre jeu de donnés afin de découvrir des insights intéressants.
+-Produire une analyse exploratoiredi jeux de données en utilisant la librairie Pandas. Cette démarche nous permettra de nous familiariser avec notre jeu de donnés afin de découvrir des insights intéressants.
 -Réaliser une analyse explicative afin d’expliquer les facteurs qui motivent les participants à se rencontrer une deuxième fois. Dans cette partie, nous utiliserons des librairies de datavisualisation comme Seaborn et Plotly.
 
 Dataset
