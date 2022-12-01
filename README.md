@@ -17,4 +17,3 @@ Contributions
 Rodelin EXAVIER
 
 Références
-![image](https://user-images.githubusercontent.com/83025253/205163776-33718488-54f6-4602-8119-8a127e5628b5.png)
